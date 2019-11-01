@@ -49,7 +49,7 @@
     }
 </script>
 
-<style scoped>
+<style>
 .card-carousel a {
     text-decoration: none;
     color: #666;
